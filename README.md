@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning and mastering REST API development with Spring Boot.<br>🎯 Goals: To become a highly skilled full-stack developer.<br>🎲 Fun fact: I enjoy solving complex algorithms in my free time.</p>
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently studying at Pdp Academy and learning to master REST API development with Spring Boot.<br>🎯 Goals: To become a highly skilled software engineer.<br>🎲 Fun fact: I enjoy solving complex algorithms in my free time.</p>
 
 ###
 
@@ -18,25 +18,27 @@
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-plain.svg" height="40" alt="hibernate logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="40" alt="aws logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/thymeleaf/thymeleaf-original.svg" height="40" alt="thymeleaf logo" />
-</div>
+<ul align="left">
+  <li>Java</li>
+  <li>Spring Framework</li>
+  <li>Spring Boot</li>
+  <li>Spring Security</li>
+  <li>PostgreSQL</li>
+  <li>MySQL</li>
+  <li>MongoDB</li>
+  <li>Hibernate ORM</li>
+  <li>Docker</li>
+  <li>AWS</li>
+  <li>JavaScript</li>
+  <li>Thymeleaf</li>
+  <li>CSS</li>
+  <li>Bootstrap</li>
+  <li>HTML5</li>
+  <li>RESTful API</li>
+  <li>Spring HATEOAS</li>
+  <li>Spring Data REST</li>
+  <li>Securing REST API</li>
+</ul>
 
 ###
 
