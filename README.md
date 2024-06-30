@@ -23,6 +23,7 @@
   <li>Spring Framework</li>
   <li>Spring Boot</li>
   <li>Spring Security</li>
+  <li>Jakarta EE (JSP, Servlets)</li>
   <li>PostgreSQL</li>
   <li>MySQL</li>
   <li>MongoDB</li>
