@@ -15,6 +15,7 @@ Hello! 👋 My name is Oybek Xasanov, a Java Backend Developer from Uzbekistan. 
 - Java
 - Spring Framework
 - Spring Boot
+- Spring MVC
 - Spring Security
 - WebSocket (Java backend)
 - Jakarta EE (JSP, Servlets)
