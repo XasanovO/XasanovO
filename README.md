@@ -1,50 +1,45 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Oybek Xasanov - Java Backend Developer
 
-###
+## Introduction
+Hello! 👋 My name is Oybek Xasanov, a Java Backend Developer from Uzbekistan. I enjoy crafting robust backend solutions using modern technologies.
 
-<p align="left">My name is Oybek Xasanov and I'm a Java Backend Developer, from Uzbekistan.</p>
+## About Me
+- ✨ Creating bugs since ...
+- 📚 Currently studying at Pdp Academy, mastering REST API development with Spring Boot.
+- 🎯 Goals: To become a highly skilled software engineer.
+- 🎲 Fun fact: I enjoy solving complex algorithms in my free time.
 
-###
+## Technologies I Work With
 
-<h2 align="left">About me</h2>
+### Backend Technologies
+- Java
+- Spring Framework
+- Spring Boot
+- Spring Security
+- WebSocket (Java backend)
+- Jakarta EE (JSP, Servlets)
+- Hibernate ORM
+- Docker
+- AWS
 
-###
+### Database Technologies
+- PostgreSQL
+- MySQL
+- MongoDB
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently studying at Pdp Academy and learning to master REST API development with Spring Boot.<br>🎯 Goals: To become a highly skilled software engineer.<br>🎲 Fun fact: I enjoy solving complex algorithms in my free time.</p>
+### Frontend Technologies
+- Basic JavaScript
+- Thymeleaf
+- CSS
+- Bootstrap
+- HTML5
 
-###
+### RESTful API Development
+- Spring HATEOAS
+- Spring Data REST
+- Securing REST API
 
-<h2 align="left">I code with</h2>
-
-###
-
-<ul align="left">
-  <li>Java</li>
-  <li>Spring Framework</li>
-  <li>Spring Boot</li>
-  <li>Spring Security</li>
-  <li>Jakarta EE (JSP, Servlets)</li>
-  <li>PostgreSQL</li>
-  <li>MySQL</li>
-  <li>MongoDB</li>
-  <li>Hibernate ORM</li>
-  <li>Docker</li>
-  <li>AWS</li>
-  <li>JavaScript</li>
-  <li>Thymeleaf</li>
-  <li>CSS</li>
-  <li>Bootstrap</li>
-  <li>HTML5</li>
-  <li>RESTful API</li>
-  <li>Spring HATEOAS</li>
-  <li>Spring Data REST</li>
-  <li>Securing REST API</li>
-</ul>
-
-###
-
-<h2 align="left">Contact me</h2>
-
-###
-
-<p align="left">📫 Feel free to reach out to me at <a href="mailto:ox1213982@gmail.com">ox1213982@gmail.com</a> or on Telegram <a href="https://t.me/xasaanov18">@xasaanov18</a>.</p>
+## Contact Me
+Feel free to reach out to me via:
+- Email: [ox1213982@gmail.com](mailto:ox1213982@gmail.com)
+- Telegram: [@xasaanov18](https://t.me/xasaanov18)
