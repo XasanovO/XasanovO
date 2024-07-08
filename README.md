@@ -13,6 +13,7 @@ Hello! 👋 My name is Oybek Xasanov, a Java Backend Developer from Uzbekistan. 
 
 ### Backend Technologies
 - Java
+- Telegram Bot
 - Spring Framework
 - Spring Boot
 - Spring MVC
