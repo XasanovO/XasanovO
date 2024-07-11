@@ -33,7 +33,7 @@ Hello! 👋 My name is Oybek Xasanov, a Java Backend Developer from Uzbekistan. 
 - **Version Control**: Git, GitHub/GitLab
 - **Build Tools**: Maven, Gradle
 - **CI/CD**: Jenkins, GitHub Actions
-- **Containerization**: Docker, Kubernetes
+- **Containerization**: Docker
 - **Testing**: JUnit, Mockito, Integration testing
 - **Logging**: Logback, SLF4J
 
@@ -44,10 +44,8 @@ Hello! 👋 My name is Oybek Xasanov, a Java Backend Developer from Uzbekistan. 
 - **Builder**: Simplifying the construction of complex objects
 
 ### Cloud and DevOps
-- **AWS**: EC2, S3, RDS, Lambda
+- **AWS**: EC2
 - **Microservices**: Understanding microservices architecture
-- **API Gateways**: Zuul, Spring Cloud Gateway
-- **Monitoring**: Prometheus, Grafana
 
 ## Contact Me
 Feel free to reach out to me via:
