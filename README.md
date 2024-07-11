@@ -4,10 +4,7 @@
 Hello! 👋 My name is Oybek Xasanov, a Java Backend Developer from Uzbekistan. I enjoy crafting robust backend solutions using modern technologies.
 
 ## About Me
-- ✨ Creating bugs since ...
-- 📚 Currently studying at Pdp Academy, mastering REST API development with Spring Boot.
-- 🎯 Goals: To become a highly skilled software engineer.
-- 🎲 Fun fact: I enjoy solving complex algorithms in my free time.
+I am passionate about working on larger projects for extended periods and strive to write my code adhering to SOLID principles. I enjoy solving algorithmic problems and teaching programming to others. Sharing my knowledge is something I value greatly. Currently, I am focused on enhancing my skills in REST API development, microservices, and cloud DevOps technologies.
 
 ## Skills
 
