@@ -1,5 +1,3 @@
-Certainly! Here's the updated README including WebSocket:
-
 # Oybek Xasanov - Java Backend Developer
 
 ## Introduction
