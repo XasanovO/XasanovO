@@ -1,3 +1,5 @@
+Certainly! Here's the updated README including WebSocket:
+
 # Oybek Xasanov - Java Backend Developer
 
 ## Introduction
@@ -20,6 +22,7 @@ I am passionate about working on larger projects for extended periods and strive
 - **Spring MVC**: Building RESTful web services, Controllers, ViewResolvers
 - **Spring Security**: Authentication, Authorization, OAuth2
 - **Spring Data JPA**: ORM with Hibernate, Repository pattern
+- **Spring WebSocket**: Real-time communication, WebSocket configuration, STOMP protocol
 
 ### Database Management
 - **SQL**: Writing efficient queries, Joins, Transactions
@@ -48,3 +51,4 @@ I am passionate about working on larger projects for extended periods and strive
 Feel free to reach out to me via:
 - Email: [ox1213982@gmail.com](mailto:ox1213982@gmail.com)
 - Telegram: [@xasaanov18](https://t.me/xasaanov18)
+
