@@ -44,6 +44,7 @@ I am passionate about working on larger projects for extended periods and strive
 ### Cloud and DevOps
 - **AWS**: EC2
 - **Microservices**: Understanding microservices architecture
+- **Docker
 
 ## Contact Me
 Feel free to reach out to me via:
