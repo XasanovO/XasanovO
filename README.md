@@ -21,6 +21,7 @@ I am passionate about working on larger projects for extended periods and strive
 - **Spring Security**: Authentication, Authorization, OAuth2
 - **Spring Data JPA**: ORM with Hibernate, Repository pattern
 - **Spring WebSocket**: Real-time communication, WebSocket configuration, STOMP protocol
+- **Spring Cloud**: Building microservices, Service discovery with Eureka, API Gateway with Spring Cloud Gateway, Circuit breakers with Hystrix, Feign clients, Configuration management with Spring Cloud Config
 
 ### Database Management
 - **SQL**: Writing efficient queries, Joins, Transactions
@@ -30,7 +31,6 @@ I am passionate about working on larger projects for extended periods and strive
 ### Tools and Practices
 - **Version Control**: Git, GitHub/GitLab
 - **Build Tools**: Maven, Gradle
-- **CI/CD**: Jenkins, GitHub Actions
 - **Containerization**: Docker
 - **Testing**: JUnit, Mockito, Integration testing
 - **Logging**: Logback, SLF4J
@@ -50,4 +50,3 @@ I am passionate about working on larger projects for extended periods and strive
 Feel free to reach out to me via:
 - Email: [ox1213982@gmail.com](mailto:ox1213982@gmail.com)
 - Telegram: [@xasaanov18](https://t.me/xasaanov18)
-
