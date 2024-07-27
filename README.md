@@ -21,7 +21,8 @@ I am passionate about working on larger projects for extended periods and strive
 - **Spring Security**: Authentication, Authorization, OAuth2
 - **Spring Data JPA**: ORM with Hibernate, Repository pattern
 - **Spring WebSocket**: Real-time communication, WebSocket configuration, STOMP protocol
-- **Spring Cloud**: Building microservices, Service discovery with Eureka, API Gateway with Spring Cloud Gateway, Circuit breakers with Hystrix, Feign clients, Configuration management with Spring Cloud Config
+- **Spring Cloud**: Building microservices, Service discovery with Eureka, API Gateway with Spring Cloud Gateway, Feign clients
+- **Spring AMQP (RabbitMQ)**: Message brokering, Asynchronous communication, Event-driven architecture
 
 ### Database Management
 - **SQL**: Writing efficient queries, Joins, Transactions
